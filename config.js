@@ -17,7 +17,7 @@ global.defaultLenguaje = 'es';
 
 global.owner = [
   ['5217771303481', 'MichiBot', true],
-  ['5217771303481'],
+  ['5213521250095'],
   ['5217771303481'],
   ['5217771303481'],
   ['5217771303481'],
@@ -30,12 +30,12 @@ global.prems = [];
 // Base Rest Api
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
-global.packname = 'MichiBot';
-global.author = 'MichiBot';
-global.wm = 'MichiBot';
-global.titulowm = 'MichiBot';
-global.titulowm2 = `MichiBot`
-global.igfg = 'MichiBot';
+global.packname = 'ItsClan';
+global.author = 'ItsClan';
+global.wm = 'ItsClan';
+global.titulowm = 'ItsClan';
+global.titulowm2 = `ItsClan`
+global.igfg = 'ItsClan';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
@@ -55,9 +55,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nMichiBot`;
-global.gt = 'MichiBot';
-global.mysticbot = 'MichiBot';
+global.wm2 = `${dia} ${fecha}\nItsClan`;
+global.gt = 'ItsClan';
+global.mysticbot = 'ItsClan';
 global.channel = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G';
 global.md = 'https://www.instagram.com/richetti_123/';
 global.mysticbot = 'https://www.instagram.com/richetti_123/';
